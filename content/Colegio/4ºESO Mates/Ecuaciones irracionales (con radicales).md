@@ -1,0 +1,5 @@
+Las [[Ecuaciones|ecuaciones]] irracionales son aquellas en las que la incógnita está en el argumento de una raíz. Se denominan irracionales porque las raíces son generalmente números que no pueden ponerse como razón (fracción). En general una ecuación racional es
+$$\sqrt[n]{f(x)}=g(x)$$Donde $f(x)$ y $g(x)$ pueden ser cualquier función. Nosotros nos centraremos en casos simples en los que estas son polinomios. Por ejemplo $$\sqrt{x^2-9}=x-2$$Para resolver una ecuación irracional debemos eliminar la raíz, para esto elevamos ambos lados de la ecuación al índice en cada caso. En este ejemplo, elevamos al cuadrado $$(\sqrt{x^2-9})^2=(x-2)^2$$De esta forma, la raíz desaparece $${x^2-9}=(x-2)^2$$Y solo queda operar la potencia de la derecha, $(x-2)^2=(x-2)(x-2)=x^2-4x+4$ $$x^2-9=x^2-4x+4$$Despejamos $x$ $$-9=-4x+4$$ $$-13=-4x$$ $$x=\frac{13}{4}$$En una **ecuación con radicales es imprescindible comprobar la solución obtenida**. Para esto, sustituimos $x$ en la raíz $\sqrt {x^2-9}\rightarrow \sqrt {\frac{169}{16}-9}=\sqrt {1,56}$, que es una raíz positiva (existe). Luego **la solución es válida.**
+
+Ejercicios en [[Ejercicios de ecuaciones con radicales]]
+

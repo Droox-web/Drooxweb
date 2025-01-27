@@ -1,0 +1,1 @@
+¿Por qué hay indeterminaciones? https://youtu.be/YAqQkzNHU6o?si=mDSKtzrDbUssh5Uo
