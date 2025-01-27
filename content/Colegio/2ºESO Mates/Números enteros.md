@@ -14,6 +14,6 @@ Los números enteros se utilizan ampliamente en matemáticas para operaciones de
 
 Para practicar las operaciones ver más abajo:
 
-[[2eso-Ejercicios de operaciones con enteros]]
+[[Ejercicios de operaciones con enteros]]
 
-[[2eso-Ejercicios de operaciones combinadas con enteros]]
+[[Ejercicios de operaciones combinadas con enteros]]

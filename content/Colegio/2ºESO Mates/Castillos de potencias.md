@@ -21,5 +21,5 @@ $$-\frac{2^4}{3^4}=-\frac{16}{81}$$
 
 Dentro de [[Potencias]].
 
-Ejercicios en [[2eso-Ejercicios de castillos de potencias]]
+Ejercicios en [[Ejercicios de castillos de potencias]]
 

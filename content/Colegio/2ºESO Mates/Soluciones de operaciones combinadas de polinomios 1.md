@@ -1,4 +1,4 @@
-Enunciados en [[2-esoEjercicios de operaciones combinadas de polinomios 1]]
+Enunciados en [[Ejercicios de operaciones combinadas de polinomios 1]]
 
 Dadas las funciones:
 - $$A(x) = x^2 + 2x + 1$$

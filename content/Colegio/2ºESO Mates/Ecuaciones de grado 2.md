@@ -74,7 +74,7 @@ Por lo tanto, las soluciones son $x = -2$ y $x = -3$.
 
 ---
 
-Ejercicios en [[2eso-Ejercicios de ecuaciones de segundo grado]]
+Ejercicios en [[Ejercicios de ecuaciones de segundo grado]]
 [[3eso-Ejercicios de ecuaciones de segundo grado 3ºESO]]
 [[2eso-Ejercicios para profundizar de ecuaciones de segundo grado]]
 

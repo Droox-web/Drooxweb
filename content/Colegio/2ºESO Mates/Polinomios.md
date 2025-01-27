@@ -36,7 +36,7 @@ $$2x^2\cdot 5x^5=(2\cdot 5) \cdot (x^2\cdot x^5)=10x^7$$
 #### Divisiones de monomios
 
 Los monomios pueden dividirse dividiendo los coeficientes y las partes literales por separado. Al ser números no conocidos, la parte literal se opera utilizando las propiedades de las potencias. $$10x^5:2x^3=(10:2) \cdot (x^5:x^3)=5x^2$$
-Para practicar visitar [[2eso-Ejercicios de operaciones con monomios]]
+Para practicar visitar [[Ejercicios de operaciones con monomios]]
 ## Polinomios
 
 Un polinomio puede denotarse como $P(x)$ donde $x$ indica la variable de la que depende el polinomio.
@@ -105,7 +105,7 @@ $$(2x + 3)(x^2 + x + 1)$$
    2x^3 + (2x^2 + 3x^2) + (2x + 3x) + 3 = 2x^3 + 5x^2 + 5x + 3
 	$$
 
-Ejercicios en [[2eso-Ejercicios de multiplicación de polinomios]]
+Ejercicios en [[Ejercicios de multiplicación de polinomios]]
 
 ### Factorización de polinomios
 
@@ -141,7 +141,7 @@ Veamos un ejemplo:$$\frac{1}{x}+\frac{2x}{x-1}$$Buscamos el $m.c.m. (x, x-1)$ qu
 
 Ahora podemos sumar numeradores$$\frac{x-1+2x^2}{x\cdot (x-1)}=\frac{2x^2+x-1}{x\cdot (x-1)}$$Y finalmente, podríamos intentar simplificar la fracción. Para ello vemos si el numerador puede factorizarse en $x$ que ***no puede si no se puede sacar factor común*** o en $(x-1)$ ***usando el teorema del resto***$$\left .2x^2+x-1\right|_{x=1}=2+1-1=2\neq 0$$No es divisible, por lo que no se puede factorizar y por ende no se puede simplificar. Operamos el denominador $$x(x-1)=x^2-x$$y queda finalmente que la suma es $$\frac{1}{x}+\frac{2x}{x-1}=\frac{2x^2+x-1}{x^2-x}$$Ejercicios en [[3eso-Ejercicios de sumas de fracciones algebraicas]]
 
-Más ejercicios en [[2eso-Ejercicios de sumas de fracciones algebraicas]]
+Más ejercicios en [[Ejercicios de sumas de fracciones algebraicas]]
 
 #### Multiplicación de fracciones algebraicas
 

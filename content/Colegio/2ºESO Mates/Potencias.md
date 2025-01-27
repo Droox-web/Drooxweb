@@ -46,4 +46,4 @@ La expresión $a^n$ significa que la base $a$ se multiplica por sí misma $n$ ve
 	$$
 Relacionado con [[Raíces]], [[Logaritmos]].
 
-Ejercicios en [[2eso-Ejercicios de castillos de potencias]]
+Ejercicios en [[Ejercicios de castillos de potencias]]

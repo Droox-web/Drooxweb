@@ -79,7 +79,7 @@ Para practicar estos ejercicios visitar: [[2eso-Ejercicios de sumas de raíces]]
 
 #### Multiplicaciones y divisiones de raíces
 
-Para poder multiplicar raíces, necesitamos que éstas tengan el mismo índice $$\sqrt[n]{a}\cdot \sqrt[n]{b}=\sqrt[4]{a\cdot b}$$En este caso, bastará con multiplicar los argumentos de ambas. Por ejemplo $$\sqrt[3]{3}\cdot \sqrt[3]{4}=\sqrt[3]{12}$$Si queremos multiplicar raíces, pero éstas tienen distintos índices, debemos primero transformarlas a [[Índice común de raíces|índice común]]. Por ejemplo$$\sqrt[3]{5}\cdot \sqrt 3=\sqrt[6]{5^2}\cdot \sqrt[6]{3^3}=\sqrt[6]{25}\cdot \sqrt[6]{9}=\sqrt[6]{225}$$Para ver más ejercicios visitar [[2eso-Ejercicios de Multiplicaciones de Raíces (fácil)]], [[3eso-Ejercicios de multiplicaciones y divisiones de raíces]]
+Para poder multiplicar raíces, necesitamos que éstas tengan el mismo índice $$\sqrt[n]{a}\cdot \sqrt[n]{b}=\sqrt[4]{a\cdot b}$$En este caso, bastará con multiplicar los argumentos de ambas. Por ejemplo $$\sqrt[3]{3}\cdot \sqrt[3]{4}=\sqrt[3]{12}$$Si queremos multiplicar raíces, pero éstas tienen distintos índices, debemos primero transformarlas a [[Índice común de raíces|índice común]]. Por ejemplo$$\sqrt[3]{5}\cdot \sqrt 3=\sqrt[6]{5^2}\cdot \sqrt[6]{3^3}=\sqrt[6]{25}\cdot \sqrt[6]{9}=\sqrt[6]{225}$$Para ver más ejercicios visitar [[Ejercicios de Multiplicaciones de Raíces (fácil)]], [[3eso-Ejercicios de multiplicaciones y divisiones de raíces]]
 
 Relacionado con [[Potencias]]
 

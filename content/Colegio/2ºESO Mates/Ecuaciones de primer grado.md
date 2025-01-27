@@ -10,5 +10,5 @@ Para resolver ecuaciones de primer grado debemos:
 2. Quitar el número que tenemos delante de la $x$. Para ello dividimos ambos lados de la ecuación por ese número, en este caso el $3$ $$\frac{\cancel{3}x}{\cancel{3}}=\frac{-5}{3}$$ $$x=\frac{-5}{3}$$Y ya hemos terminado. La igualdad se cumple para $x=-5/3$.
 
 ---
-Ejercicios en: [[2eso-Ejercicios de ecuaciones de primer grado]]
+Ejercicios en: [[Ejercicios de ecuaciones de primer grado]]
 
